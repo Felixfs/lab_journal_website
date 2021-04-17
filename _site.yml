@@ -21,4 +21,4 @@ navbar:
               href: machine_learning.html
     - text: "Links"
       href: links.html
-output_dir: "08bb8be71dafed4b92fddf3ee01e0f5cddabf154"
+output_dir: "docs"
